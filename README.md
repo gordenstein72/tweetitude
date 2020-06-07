@@ -7,6 +7,8 @@ Download Apache Spark [https://spark.apache.org/downloads.html] (i think all you
 Launch Anaconda and open the Jupyter Notebook App.
 In the top right corner is a button for a `new terminal` click that then run `pip install pyspark`
 
+install the twitter api `pip install python-twitter`
+
 Clone Tweetitude onto your local machine. 
 Navigate to the Tweetitude git repository in Jupyter notebooks
 Create a new file or work on an existing file from the Jupyter notebook file explorer.
